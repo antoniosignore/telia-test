@@ -26,3 +26,6 @@ Install maven
     
     ./mvnw spring-boot:run
 
+## current coverage
+
+test	100% (5/5)	73% (17/23)	53% (26/49)
